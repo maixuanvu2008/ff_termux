@@ -25,7 +25,7 @@
 
 ### 🏠 [Trang chủ] (https://github.com/maixuanvu2008/ff_termux/blob/main/README.md#)
 
-# Mua Key Server FullNhiemVu-VIP-2022 [MoonSmile]?
+# Mua Key Server Hack Full [MoonSmile]?
  - Chuyển khoản 20k vào zalo 00779643397 để có key bản hack ff hoàn thiện nha!
  - Lưu ý! Thành lập và sử dụng các máy chủ khác miễn phí trước khi mua máy chủ này! Để tránh trường hợp 1 số người không biết gì mà vẫn mua, lúc đó lại hỏi rằng key này để làm gì thì bạn!
 
