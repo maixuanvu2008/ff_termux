@@ -9,11 +9,6 @@
   <a href="https://https://github.com/maixuanvu2008/ninja_Server_Termux-/blob/main/LICENSE" target="_blank">
     <img alt = "Giấy phép: maixuanvu2008" src = "https://img.shields.io/badge/License-Vuxuan2008-yellow.svg" />
   </a>
-  <br />
-  <img alt = "Tải xuống Github" src = "https://img.shields.io/github/downloads/maixuanvu2008/ninja_Server_Termux/total.svg?style=for-the-badge" />
-  <img alt = "Bản phát hành trên Github" src = "https://img.shields.io/github/release/KhanhNguyen9872/Ninja_Server_Termux.svg?style=for-the-badge" />
-</p>
-<a href="https://twitter.com/Khnh59855418" target="_blank">
     <img alt = "Twitter: khanh9872" src = "https://img.shields.io/twitter/follow/Khnh59855418.svg?style=social" />
 </a>
 
