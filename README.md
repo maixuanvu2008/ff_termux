@@ -1,5 +1,5 @@
 <h1 align = "center"> Chào mừng bạn đến với Hack_ff_Termux 👋 </h1>
-<img alt = "Trang chủ" src = "https: // https: //github.com/maixuanvu2008/ninja_Server_Termux-/raw/main/image/Homepage.png" />
+<img alt = "Trang chủ" src = "https: //github.com/maixuanvu2008/ninja_Server_Termux-/raw/main/image/Homepage.png" />
 
 <p>
   <img alt = "Phiên bản" src = "https://img.shields.io/badge/version-10.4-blue.svg?cacheSeconds=2592000" />
@@ -11,7 +11,7 @@
     <img alt = "Tài liệu" src = "https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://https://github.com/maixuanvu2008/ninja_Server_Termux-/blob/main/LICENSE" target="_blank">
-    <img alt = "Giấy phép: maixuanvu2008" src = "https://img.shields.io/badge/License-KhanhNguyen9872-yellow.svg" />
+    <img alt = "Giấy phép: maixuanvu2008" src = "https://img.shields.io/badge/License-Vuxuan2008-yellow.svg" />
   </a>
   <br />
   <img alt = "Tải xuống Github" src = "https://img.shields.io/github/downloads/maixuanvu2008/ninja_Server_Termux/total.svg?style=for-the-badge" />
