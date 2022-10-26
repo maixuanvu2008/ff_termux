@@ -33,11 +33,9 @@
     <img alt = "Tổng số sao" src = "https://img.shields.io/github/stars/KhanhNguyen9872/Ninja_Server_Termux?style=social" />
 </a>
 
-> Máy chủ Ninja School trên Termux Android
+> Máy chủ FF Hack trên Termux Android
 
-### 🏠 [Trang chủ] (https://maixuanvu2008.github.io/Ninja_Server_Termux#)
-
-### ✨ [Video & Ảnh chụp màn hình] (https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/DEMO.md)
+### 🏠 [Trang chủ] (https://github.com/maixuanvu2008/ff_termux/blob/main/README.md#)
 
 # Mua Key Server FullNhiemVu-VIP-2022 [MoonSmile]?
  - Chuyển khoản 20k vào zalo 00779643397 để có key bản hack ff hoàn thiện nha!
