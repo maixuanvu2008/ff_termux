@@ -3,7 +3,7 @@
 
 <p>
   <img alt = "Phiên bản" src = "https://img.shields.io/badge/version-10.4-blue.svg?cacheSeconds=2592000" />
-  <img alt = "Cập nhật" src = "https://img.shields.io/badge/update-02/10/2022-blue.svg?cacheSeconds=2592000" />
+  <img alt = "Cập nhật" src = "https://img.shields.io/badge/update-26/10/2022-blue.svg?cacheSeconds=2592000" />
   <br />
   <img alt = "Trạng thái xây dựng" src = "https://cloud.drone.io/api/badges/maixuanvu2008/ninja_Server_Termux/status.svg" />
 
