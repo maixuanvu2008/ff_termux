@@ -8,8 +8,6 @@
   </a>
   <a href="https://https://github.com/maixuanvu2008/ninja_Server_Termux-/blob/main/LICENSE" target="_blank">
     <img alt = "Giấy phép: maixuanvu2008" src = "https://img.shields.io/badge/License-Vuxuan2008-yellow.svg" />
-  </a>
-    <img alt = "Twitter: khanh9872" src = "https://img.shields.io/twitter/follow/Khnh59855418.svg?style=social" />
 </a>
 
 <a href="https://github.com/maixuanvu2008" target="_blank">
@@ -17,7 +15,6 @@
 </a>
 
 <a href="https://https://github.com/maixuanvu2008/ninja_Server_Termux-#" target="_blank">
-    <img alt = "Fork Total" src = "https://img.shields.io/github/forks/KhanhNguyen9872/Ninja_Server_Termux?style=social" />
 </a>
 
 <a href="https://https://github.com/maixuanvu2008/ninja_Server_Termux-#" target="_blank">
