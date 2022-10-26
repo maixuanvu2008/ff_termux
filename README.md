@@ -2,13 +2,9 @@
 <img alt = "Trang chủ" src = "https: //github.com/maixuanvu2008/ninja_Server_Termux-/raw/main/image/Homepage.png" />
 
 <p>
-  <img alt = "Phiên bản" src = "https://img.shields.io/badge/version-10.4-blue.svg?cacheSeconds=2592000" />
   <img alt = "Cập nhật" src = "https://img.shields.io/badge/update-26/10/2022-blue.svg?cacheSeconds=2592000" />
   <br />
-  <img alt = "Trạng thái xây dựng" src = "https://cloud.drone.io/api/badges/maixuanvu2008/ninja_Server_Termux/status.svg" />
-
-  <a href="https://https://github.com/maixuanvu2008/ninja_Server_Termux-#" target="_blank">
-    <img alt = "Tài liệu" src = "https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  <img alt = "Trạng thái xây dựng" src = "https://cloud.drone.io/api/badges/maixuanvu2008/ninja_Server_Termux/status.svg" 
   </a>
   <a href="https://https://github.com/maixuanvu2008/ninja_Server_Termux-/blob/main/LICENSE" target="_blank">
     <img alt = "Giấy phép: maixuanvu2008" src = "https://img.shields.io/badge/License-Vuxuan2008-yellow.svg" />
