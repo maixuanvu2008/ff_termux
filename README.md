@@ -1,5 +1,5 @@
 <h1 align = "center"> Chào mừng bạn đến với Hack_ff_Termux 👋 </h1>
-<img alt = "Trang chủ" src = "https: //github.com/maixuanvu2008/ninja_Server_Termux-/raw/main/image/Homepage.png" />
+<img alt = "Trang chủ" src = "https://raw.githubusercontent.com/maixuanvu2008/ff_termux/main/H%C3%ACnh%20%E1%BA%A3nh/vuupdet.png" />
 
 <p>
   <img alt = "Cập nhật" src = "https://img.shields.io/badge/update-26/10/2022-blue.svg?cacheSeconds=2592000" />
