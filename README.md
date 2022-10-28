@@ -41,15 +41,17 @@
 
 3 - Mở Termux, sao chép dòng này và dán vào Termux để setup Termux
 
-`` pkg install update
+```bash 
+pkg install update
 termux-setup-storage
 tkg install python
 pkg install python -
-``
+
+```
 
 4 - r dán lệnh này vào Termux để chạy
 
-`` 
+```bash
 python ff2.py
 clear
 python ff.py
@@ -71,7 +73,8 @@ clear
 python ff10.py
 clear 
 python ff11.py
-``
+
+```
 
 5 - Chờ cài đặt!
  
