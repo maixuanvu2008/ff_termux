@@ -2,7 +2,7 @@
 <img alt = "Trang chủ" src = "https://raw.githubusercontent.com/maixuanvu2008/ff_termux/main/H%C3%ACnh%20%E1%BA%A3nh/bg80.png" />
 
 <p>
-  <img alt = "Cập nhật" src = "https://img.shields.io/badge/update-26/10/2022-blue.svg?cacheSeconds=2592000" />
+  <img alt = "Cập nhật" src = "https://img.shields.io/badge/update-09/11/2022-blue.svg?cacheSeconds=2592000" />
   <br />
   <img alt = "Trạng thái xây dựng" src = "https://cloud.drone.io/api/badges/maixuanvu2008/ninja_Server_Termux/status.svg" 
   </a>
